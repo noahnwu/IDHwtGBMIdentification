@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: IDHwt Glioblastoma Identification
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Noah
+    family-names: Forrest
+    email: noah.forrest@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0003-4601-7070'
+  - given-names: Vijeeth
+    family-names: Guggilla
+    email: vijeeth.guggilla@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0001-9132-514X'
+repository-code: 'https://github.com/noahnwu/IDHwtGBMIdentification'
+abstract: >-
+  Models for identifying isocitrate dehydrogenase wild-type
+  (IDHwt) glioblastoma and O-6-methylguanine-DNA
+  methyltransferase (MGMT) promoter methylation from
+  surgical pathology documents.
+keywords:
+  - Glioblastoma
+  - IDHwt
+  - Natural language processing
+license: BSD-3-Clause

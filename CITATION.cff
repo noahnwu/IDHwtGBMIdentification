@@ -15,6 +15,11 @@ authors:
     email: vijeeth.guggilla@northwestern.edu
     affiliation: Northwestern University Feinberg School of Medicine
     orcid: 'https://orcid.org/0000-0001-9132-514X'
+  - given-names: Theresa
+    family-names: Walunas
+    email: t-walunas@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0002-7653-3650'
 repository-code: 'https://github.com/noahnwu/IDHwtGBMIdentification'
 abstract: >-
   Models for identifying isocitrate dehydrogenase wild-type
@@ -25,4 +30,3 @@ keywords:
   - Glioblastoma
   - IDHwt
   - Natural language processing
-license: BSD-3-Clause

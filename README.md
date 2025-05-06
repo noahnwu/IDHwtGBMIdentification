@@ -1,7 +1,7 @@
 # MODELS FOR IDENTIFYING IDHWT GBM AND MGMT PROMOTER METHYLATION FROM SURGICAL PATHOLOGY DOCUMENTS
 
 
-Below is an explanation of the setup needed as well as files contained within the directory. Contact noah.forrest@northwestern.edu if any issues arise.
+Below is an explanation of the setup needed as well as files contained within the directory.  if any issues arise.
 
 # SYSTEM INFORMATION
 
